@@ -1,0 +1,21 @@
+{
+    "name": "persianyii/yii2-rss",
+    "description": "create rss with array",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rss"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "ahmadzadeh",
+            "email": "hossein.ahmadzadeh73@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persianyii\\rss\\": ""
+        }
+    }
+}
